@@ -1,0 +1,15 @@
+
+
+.header{
+    background-image: url('../image/2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.caption{
+    font-size: 4em;
+    color: white;
+    font-weight: 700;
+}
